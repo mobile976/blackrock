@@ -1162,48 +1162,7 @@ blockquote cite:before {
 .nav-scroll .navbar-nav .active {
     color: #BD945A !important;
 }
-/* logo */
-.nav-scroll .logo-wrapper .logo-img {
-    width: 130px;
-    margin-bottom: 0px;
-}
-.nav-scroll .logo-wrapper {}
-.nav-scroll .logo-wrapper .logo h2 {
-    display: block;
-    width: 100%;
-    color: #BD945A;
-    position: relative;
-    margin-bottom: 0;
-    padding: 0;
-}
-.nav-scroll .logo-wrapper .logo span {
-    color: #BD945A;
-}
-.logo-wrapper {
-    float: left;
-}
-.logo-wrapper .logo {
-    padding: 0;
-}
-.logo-wrapper .logo-img {
-    width: 130px;
-    text-align: center;
-}
-.logo-wrapper .logo h2 {
-    font-family: "Gilda Display", serif;
-    font-size: 32px;
-    font-weight: 400;
-    display: block;
-    width: 100%;
-    position: relative;
-    color: #fff;
-    margin-bottom: 0;
-    padding: 0;
-    line-height: 1.25em;
-}
-.logo-wrapper .logo h2 span {
-    color: #BD945A;
-}
+
 /* dropdown */
 .dropdown .nav-link i {
     padding-left: 0px;
