@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blackrock/static/css/main.f855e6bc.css",
-    "main.js": "/blackrock/static/js/main.ace393e9.js",
+    "main.js": "/blackrock/static/js/main.3ed165d0.js",
     "static/js/453.91c085fc.chunk.js": "/blackrock/static/js/453.91c085fc.chunk.js",
     "index.html": "/blackrock/index.html",
     "main.f855e6bc.css.map": "/blackrock/static/css/main.f855e6bc.css.map",
-    "main.ace393e9.js.map": "/blackrock/static/js/main.ace393e9.js.map",
+    "main.3ed165d0.js.map": "/blackrock/static/js/main.3ed165d0.js.map",
     "453.91c085fc.chunk.js.map": "/blackrock/static/js/453.91c085fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ace393e9.js"
+    "static/js/main.3ed165d0.js"
   ]
 }
